@@ -38,4 +38,4 @@ Next, I worked on a web application project for booking rooms where technologies
 
 ### Support Me
 
-<p>Feel free to check one of my work using HTML/CSS and Javascript<a href="https://jugosack.github.io/">Click Here</a></p>
+<p>Feel free to check one of my work using HTML/CSS and Javascript <a href="https://jugosack.github.io/">Click Here</a></p>
