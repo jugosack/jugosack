@@ -44,12 +44,12 @@ Next, I worked on a web application project for booking rooms where technologies
 
 <picture>
   <source 
-    srcset="https://github-readme-stats-jugosack.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats-jugosack.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-jugosack.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
 </picture>
