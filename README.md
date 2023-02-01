@@ -39,3 +39,17 @@ Next, I worked on a web application project for booking rooms where technologies
 ### Support Me
 
 <p>Feel free to check one of my work using HTML/CSS and Javascript <a href="https://jugosack.github.io/">=> Click Here</a></p>
+
+<!------------------------------ My GitHub Stats ------------------------------>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats-jugosack.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats-jugosack.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-jugosack.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+</picture>
