@@ -40,6 +40,10 @@ Next, I worked on a web application project for booking rooms where technologies
 
 <p>Feel free to check one of my work using HTML/CSS and Javascript <a href="https://jugosack.github.io/">=> Click Here</a></p>
 
+## Feedback
+
+- 📫 If you have any feedback, please reach out to me at jugoslav_ackoski@yahoo.com
+
 <!------------------------------ My GitHub Stats ------------------------------>
 
 <picture>
@@ -54,6 +58,10 @@ Next, I worked on a web application project for booking rooms where technologies
 </picture>
 
   <h2 align ="left">⚡ Stats :
+  <br>
+  <h3> Visitors count </h3>
+<img src="https://profile-counter.glitch.me/jugosack/count.svg" /><br/>
+<br>
   <div>
   <img src="https://github-readme-stats.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=default" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
 
