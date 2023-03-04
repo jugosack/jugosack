@@ -70,7 +70,7 @@ Next, I worked on a web application project for booking rooms where technologies
   <h3> Visitors count </h3>
 <img src="https://profile-counter.glitch.me/jugosack/count.svg" /><br/>
 <br>
-  <div>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jugosack&count_private=true&show_icons=true&theme=default" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
 
    <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugosack&show_icons=true&theme=default&layout=compact"/>
