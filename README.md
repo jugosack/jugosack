@@ -10,9 +10,9 @@ Next, I worked on a web application project for booking rooms where technologies
 <h1 align="center">Hi 👋, I'm Jugoslav</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jugosack&label=Profile%20views&color=0e75b6&style=flat" alt="jugosack" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jugosack&label=Profile%20views&color=0e75b6&style=flat" alt="jugosack" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugosack" alt="jugosack" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugosack" alt="jugosack" /></a> </p>
 
 * 🌍  I'm based in Skopje,Macedonia
 * ✉️  You can contact me at: [jugoslav_ackoski@yahoo.com](mailto:jugoslav_ackoski@yahoo.com)
