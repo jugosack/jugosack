@@ -15,10 +15,11 @@ Next, I worked on a web application project for booking rooms where technologies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jugosack" alt="jugosack" /></a> </p>
 
 * 🌍  I'm based in Skopje,Macedonia
-* ✉️  You can contact me at [jugoslav_ackoski@yahoo.com](mailto:jugoslav_ackoski@yahoo.com)
+* ✉️  You can contact me at: [jugoslav_ackoski@yahoo.com](mailto:jugoslav_ackoski@yahoo.com)
 * 🧠  I have experience in JavaScript, HTML/CSS, Ruby and Java
 * 🤝  I'm open to collaborating on Any interested projects
 * ⚡  Also open for internship and job offers
+* 👨‍💻 All of my projects are available at: [https://github.com/jugosack](https://github.com/jugosack)
 
 ### Skills
 
