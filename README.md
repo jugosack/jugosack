@@ -67,7 +67,7 @@ Next, I worked on a web application project for booking rooms where technologies
 
    <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugosack&show_icons=true&theme=default&layout=compact"/>
    </div>
-
+<br/>
 <details open>
   <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./asset/mv-logo-purple.png" width="25"/></a> Microverse Certificates</summary>
 <table align="center">
