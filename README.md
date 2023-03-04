@@ -4,7 +4,7 @@
 Software Engineer
 --------------------------
 
-I've been learning to code for the past few years after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and gained experience JavaScript, React, HTML/CSS , Java and Ruby, 
+I've been learning to code for the past few years after switching from IT Support Engineer for a couple of years but I have really found my passion in coding and developing and gained experience JavaScript, React, HTML/CSS , React, Redux, Java and Ruby, 
 Next, I worked on a web application project for booking rooms where technologies like HTML, CSS, Bootstrap and JSP for frontend and Java for backend have been used. Next, on the localhost, I have used the XAMP server, where the MYSQL database server has been used.  -->
 
 <h1 align="center">Hi 👋, I'm Jugoslav</h1>
@@ -16,7 +16,7 @@ Next, I worked on a web application project for booking rooms where technologies
 
 * 🌍  I'm based in Skopje,Macedonia
 * ✉️  You can contact me at: [jugoslav_ackoski@yahoo.com](mailto:jugoslav_ackoski@yahoo.com)
-* 🧠  I have experience in JavaScript, HTML/CSS, Ruby and Java
+* 🧠  I have experience in JavaScript, HTML/CSS, React, Redux, Ruby and Java
 * 🤝  I'm open to collaborating on Any interested projects
 * ⚡  Also open for internship and job offers
 * 👨‍💻 All of my projects are available at: [https://github.com/jugosack](https://github.com/jugosack)
