@@ -82,8 +82,8 @@ Next, I worked on a web application project for booking rooms where technologies
   <tr>
     <td align="center"><a href="https://www.credential.net/1726d1c3-1ced-4613-88ce-ef3f10647dca#gs.q1stso" target="blank"><img src="./asset/html-css-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/5e1465c6-a740-4dd7-8bd0-eed780dc179b#gs.q1ss8t" target="blank"><img src="./asset/javascript-badge.png" width="80"></a></td>
-    <!-- <td align="center"><a href="https://www.credential.net/837bcd63-e330-4837-b92b-42e256b364c7" target="blank"><img src="./asset/react-redux-badge.png" width="80"></a></td>
-    <td align="center"><a href="https://www.credential.net/daabf642-f584-4759-b4dc-cc92128a364f" target="blank"><img src="./asset/ruby-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/d44a46d7-50d5-42f1-b738-902d89e4a0a2#gs.silhfb" target="blank"><img src="./asset/react-redux-badge.png" width="80"></a></td>
+    <!-- <td align="center"><a href="https://www.credential.net/daabf642-f584-4759-b4dc-cc92128a364f" target="blank"><img src="./asset/ruby-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/0a8d41f2-787b-4146-b54e-2c95aca31d95" target="blank"><img src="./asset/ruby-on-rails-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/f0f6cb5c-fe82-4c7f-b9d7-88d206ac93e9" target="blank"><img src="./asset/full-stack-badge.png" width="80"></a></td> -->
   </tr>
