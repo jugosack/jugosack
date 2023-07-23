@@ -85,7 +85,7 @@ Next, I worked on a web application project for booking rooms where technologies
     <td align="center"><a href="https://www.credential.net/d44a46d7-50d5-42f1-b738-902d89e4a0a2#gs.silhfb" target="blank"><img src="./asset/react-redux-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/5b511d24-1961-403b-9c18-5352f0d8a126#gs.w8tx1r" target="blank"><img src="./asset/ruby-badge.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/d5efe71d-97ab-43f4-8332-30097dcbce96#gs.0n4f9n" target="blank"><img src="./asset/ruby-on-rails-badge.png" width="80"></a></td>
-    <td align="center"><a href="https://www.credential.net/cf4f03b0-353b-49ab-a709-24357b012bd3#gs.2pqc3c" target="blank"><img src="./asset/full-stack-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/cf4f03b0-353b-49ab-a709-24357b012bd3#gs.2pqc3c" target="blank"><img src="./asset/full-stack-capstone.png" width="80"></a></td>
     <td align="center"><a href="https://www.credential.net/0469f05d-4802-46bb-bc0e-4bf1791530ef#gs.2xlar4" target="blank"><img src="./asset/web_development.png" width="80"></a></td>
   </tr>
 </table>
